@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm a junior web developer with a background in programming and experience in Full-Stack projects. I recently completed an Associate's Degree in Programming at the National Technological University (Rosario, Argentina), with the diploma currently in process.
+I'm a junior web developer with a background in programming and experience in Full-Stack projects. I recently completed an University degree in programming at the National Technological University (Rosario, Argentina), with the diploma currently in process.
 
 I stand out for my commitment, responsibility, and enthusiasm for learning and growing in collaborative work environments. I have a strong command of English, acquired through self-study, which allows me to work comfortably with technical documentation and professional communication.
 
